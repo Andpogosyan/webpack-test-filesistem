@@ -6,7 +6,6 @@ Added the ability to edit files using FileSistemApi
 
 Several unit tests created
 
-Includes animation canvas
 
 Start command:
 # npm start
